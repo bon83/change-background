@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Klinik Permata",
+		"slug": "klinikpermata",
+		"details": {
+			"domain": "klinikpermata.aido.id",
+			"logo": "https://klinikpermata.com/wp-content/uploads/2022/02/Logo-Klinik-Permata-Wong-2022.png",
+			"color": "#008c49",
+			"banner": "https://klinikpermata.com/wp-content/uploads/2022/04/KLINIK-DR-WONG-1.jpg"
+		  }
+	},
+	{
+		"name": "Klinik Bunda",
+		"slug": "klinikbunda",
+		"details": {
+			"domain": "klinikbunda.aido.id",
+			"logo": "https://bunda.co.id/wp-content/uploads/2021/08/RS-Bunda-Group-Logo.svg",
+			"color": "#f7f8fc",
+			"banner": "https://praktekdokter.info/wp-content/uploads/2018/05/Rumah-Sakit-Ibu-dan-Anak-Jakarta.jpg"
+		  }
+	}
+]
