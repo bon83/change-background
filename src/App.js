@@ -99,7 +99,7 @@ function App() {
         >
           Learn React
         </a>
-        <button onClick={handleClick} > add event</button>
+
       </header>
     </div>
   );
